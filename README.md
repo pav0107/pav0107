@@ -1,4 +1,4 @@
-### Hello
+# Hello
 
 My name is Pav Rao. I'm currently at Makers Academy, a 12-week intensive coding bootcamp, with the hope of landing a job as a junior full stack developer after I finish. Prior to Makers, I graduated with a degree in Physics with Astrophysics MSci, had a career as an advertising creative/copywriter and have been performing stand-up comedy across the UK and Europe since 2011.
 
