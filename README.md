@@ -2,7 +2,7 @@
 
 My name is Pav Rao. I'm currently at Makers Academy, a 12-week intensive coding bootcamp, with the hope of landing a job as a junior full stack developer after I finish. Prior to Makers, I graduated with a degree in Physics with Astrophysics MSci, had a career as an advertising creative/copywriter and have been performing stand-up comedy across the UK and Europe since 2011.
 
-I've been learning JavaScript, Ruby, Ruby on Rails, HTML, CSS, SQL, Sinatra, Capybara, data structures and algorithms, am competent using Git and GitHub, and have dipped my toe into React and C.
+I've been learning JavaScript, React, Ruby, Ruby on Rails, HTML, CSS, SQL, Sinatra, Capybara, data structures and algorithms, am competent using Git and GitHub, and have dipped my toe into React and C. I'm a big fan of TDD and have tested with Jest, Jasmine, React Testing Library and RSpec.
 
 <!--
 **pav0107/pav0107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
