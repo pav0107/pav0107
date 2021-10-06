@@ -4,4 +4,4 @@ My name is Pav Rao. I've just finished Makers, a 16-week intensive coding bootca
 
 I've been learning JavaScript, React, Node, Express, Ruby, Ruby on Rails, HTML, CSS, SQL, Sinatra, Capybara, data structures and algorithms, and am competent using Git and GitHub. I'm a big fan of TDD and have tested with Jest, Jasmine, React Testing Library and RSpec.
 
-For more information on my experience, how it relates to software engineering, independent code reviews, education history and references, please head over to my [GitHub CV](https://github.com/pav0107/CV/)
+For more information on my experience, independent code reviews, education history and references, please head over to my [GitHub CV](https://github.com/pav0107/CV/)
