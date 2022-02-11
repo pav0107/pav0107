@@ -4,4 +4,4 @@ My name is Pav Rao. I'm a full-stack software engineer and currently work at Mum
 
 At Mumsnet I use Laravel, Tailwind CSS, Alpine.js, Livewire and MySQL. I'm also have experience with JavaScript, React, Node, Express, Ruby, Ruby on Rails, HTML, CSS, Alpine.js, Sinatra, Capybara, and data structures and algorithms. I've also tested with Jest, Jasmine, React Testing Library and RSpec.
 
-More information on my experience, education history, independent code reviews and references, can be found on my [GitHub CV](https://github.com/pav0107/CV/)
+More information on my experience, education history, independent code reviews and references, can be found on my [GitHub CV](https://github.com/pav0107/CV/).
